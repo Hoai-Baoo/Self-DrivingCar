@@ -9,3 +9,4 @@ python-engineio==3.13.2
 python-dateutil==2.8.1
 python-socketio==4.6.0
 eventlet
+tensorflow==2.7.0
